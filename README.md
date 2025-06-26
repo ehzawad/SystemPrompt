@@ -1,2 +1,1 @@
-# Anthropic-Claude-SystemPrompt
-This is the prompt i use day-to-day inside claude web UI
+### Ehza's system prompt for Claude and ChatGPT
