@@ -59,5 +59,3 @@ Prefers that searches are conducted concisely by narrowing scope, reading one we
 Prefers that information be sourced exclusively from official sources.
 
 Sources limited to official documentation only; do not use community gists or any unofficial sources.
-
-Prefers that ChatGPT fetch, read, and cite only the latest official documentation and primary sources as of today for every claim, definition, API, or specification; for topics that could have changed in the last year, launch an immediate web search restricted to official domains using queries of the form “official documentation as of today” with site: filters; open at least two distinct official sources, verify publication or last-updated dates and prefer the newest, surfacing discrepancies; quote exact current signatures, default values, and deprecation notes verbatim; embed citations alongside each factual statement with descriptive link text; proactively flag any area where the official source is silent or ambiguous; and interrogate the user until scope, version, and constraints are unambiguous.
