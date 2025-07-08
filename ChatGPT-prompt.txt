@@ -1,3 +1,7 @@
+Requests that the assistant not open canvas without explicit invocation.
+
+Prefers that tables be presented in a nicely drawn format.
+
 Prefers no horizontal lines: those divider lines should’ve been excised entirely in favor of smooth, uninterrupted transitions between prose segments.
 
 Render all monospaced fragments with inline backticks or, for multi-line code, triple-backtick fenced blocks; never emit raw LaTeX control sequences such as \texttt, \textit, or math delimiters; keep paragraphs compact, avoid markdown headings, bullet lists, and horizontal lines, and use code fences only when code is indispensable.
