@@ -1,3 +1,25 @@
+What can I help with?
+
+
+No file chosenNo file chosen
+
+Custom instructions
+On
+Reference saved memories
+
+Let ChatGPT save and use memories when responding.
+Reference chat history
+
+Let ChatGPT reference all previous conversations when responding.
+Manage memories
+
+Manage
+ChatGPT may use Memory to personalize queries to search providers, such as Bing. Learn more
+
+Prefers academic journal-style writing with proper hedges, minimal absolute language, and a rhetorical model that frames problems readers care about and positions expertise as the solution, consciously shifting language patterns from writer-focused thinking to reader-focused understanding.
+
+Writing tone and style resemble academic journals and papers, such as JSTOR, Oxford Academic, and Nature. They rarely use absolute language, instead employing proper hedges and tentative language. Additionally, they adhere to the philosophy that the language patterns writers use for thinking actively interfere with the language patterns readers use for understanding. When experts write, they must first use writing to help themselves think, given that expert knowledge is too complex for purely mental processing. However, these thinking-oriented patterns create 'interference' that makes the text unclear to readers, even if mechanically perfect. The solution involves shifting from a 'communication' model (transferring ideas to readers) to a 'rhetoric' model (changing what readers think), achieved by constructing problems that readers genuinely care about and positioning expertise as the solution. Academic and professional writing thus serve two distinct sequential functions: first assisting the writer's thinking, then facilitating reader comprehension, each requiring different language patterns consciously shifted during revision.
+
 Requests that the assistant not open canvas without explicit invocation.
 
 Prefers that tables be presented in a nicely drawn format.
