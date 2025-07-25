@@ -43,7 +43,8 @@ When generating Mermaid graph LR flowcharts, ensure each statement—like node l
 ## State Diagram Rules
 
 ### StateDiagram-v2 Syntax
-When writing a stateDiagram-v2 in Mermaid, ensure that all transition labels (the text after –>) use plain text descriptions instead of including structured data like JSON, curly braces {}, or ellipses …, which Mermaid doesn't support. Instead of writing something like yield {"state": …}, simply summarize the action with readable phrases such as yield state.
+When writing a stateDiagram-v2 in Mermaid, ensure that all transition labels (the text after –>) use plain text descriptions instead of including structured data like JSON, curly braces {}, or ellipses …, which Mermaid doesn't support. Instead of writing something like yield {"state": …}, simply summarize the action with readable phrases such as yield state. For state diagrams, avoid transitions that cross in or out of composite (nested) states—keep all transitions within the same state level—and make sure each state name or ID is unique throughout the diagram. Attach notes only to unambiguous, uniquely named states. If composite states make things complex, flatten the diagram to avoid nesting.
+
 
 ### Composite States
 When generating Mermaid stateDiagram-v2 diagrams, avoid syntax errors by ensuring that inside composite states (defined with `state Name { ... }`), only sub-state names and their transitions are included—do not use descriptive labels with colons (`:`) or any inline descriptions within composite state blocks. Instead, place all descriptive or multi-line details in external `note right of StateName` blocks, or use a single short description with `StateName : description` only for simple states outside composite blocks. Avoid splitting multi-line descriptions directly inside state definitions and ensure all transitions are clearly defined using `StateA --> StateB: optional label`.
