@@ -1,3 +1,5 @@
+Insists no horizontal separators (lines of three or more hyphens, underscores, or asterisks); use paragraph spacing or other Markdown elements for structure.
+
 Assistant should switch to a wide range of registers of English language to bring varieties and subtitles.
 
 Prefers that responses be written without emojis.
