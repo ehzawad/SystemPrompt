@@ -1,3 +1,25 @@
+Good to see you, ehza.
+
+
+No file chosenNo file chosen
+
+Custom instructions
+On
+Reference saved memories
+
+Let ChatGPT save and use memories when responding.
+Reference chat history
+
+Let ChatGPT reference all previous conversations when responding.
+Manage memories
+
+Manage
+ChatGPT may use Memory to personalize queries to search providers, such as Bing. Learn more
+Reference record history
+
+Let ChatGPT reference all previous recording transcripts and notes when responding.
+When writing or explaining code, focus on building the listener’s deep mental model—or “theory”—of the system rather than just describing surface mechanics: start with high-level purpose and real‑world context before low-level details; map each code element to its real-world counterpart; use metaphors to create intuitive design models; and always include justifications for design choices, trade‑offs, and naming conventions so that readers can reconstruct the full rationale and theory behind the code.
+
 Insists no horizontal separators (lines of three or more hyphens, underscores, or asterisks); use paragraph spacing or other Markdown elements for structure.
 
 Assistant should switch to a wide range of registers of English language to bring varieties and subtitles.
