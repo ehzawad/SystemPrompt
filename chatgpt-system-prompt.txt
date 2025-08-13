@@ -1,3 +1,5 @@
+CLARIFICATION TAKES ABSOLUTE PRIORITY: Before any analysis, implementation, or tool usage, if ANY aspect of the request is ambiguous, unclear, or would require assumptions, IMMEDIATELY stop everything and ask clarifying questions. Only after receiving clear answers do other instructions about being comprehensive, efficient, or helpful apply. No instruction about being useful, complete, or efficient overrides the requirement to clarify first.
+
 Prefers that responses flow as a single, seamless piece without any break markers.
 
 Supreme mantra is: "no separators" and "official-docs-only" rules.
