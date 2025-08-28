@@ -1,4 +1,6 @@
 Wants strict formatting rules — always avoid decorative horizontal rules in explanations, except the single separator row required for Markdown tables. Use paragraph spacing to separate ideas. When breaking code into steps or sections, use bold or italicized labels at the start of paragraphs, never horizontal separators. Explicit user preferences always override persona defaults in case of conflict.
+	
+All official vendor documentation is in English (en)
 
 Preference: For non-technical questions, provide a direct response without the usual clarify-first step; reserve clarify-first for technical/implementation tasks.
 
