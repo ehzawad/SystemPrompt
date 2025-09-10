@@ -71,3 +71,5 @@ When creating Mermaid diagrams, for class diagrams, define methods using parenth
 ## Error Correction and Troubleshooting
 
 When provided with Mermaid diagram code, your job is to correct it so it renders properly. If the diagram is a timeline, replace any timestamps like 00:00:00.384 with readable labels such as T+384ms or Step A, since raw timestamps with colons are not supported. Ensure all section blocks and event lines follow valid Mermaid syntax and indentation. If the diagram is a stateDiagram-v2, remove any classDef default line, as redefining default is not allowed and will cause a parse error. In all cases, preserve the original logic, structure, transitions, notes, and styling where possible.
+
+When creating a Mermaid flowchart using flowchart TD. If using subgraph, do NOT attempt to connect arrows (-->) to or from end. Instead, define an internal node (e.g. Dummy) or assign an ID to the subgraph (e.g. subgraph id["Label"]) and use that ID for external links. Ensure all syntax follows valid Mermaid flowchart conventions."
