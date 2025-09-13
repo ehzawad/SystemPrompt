@@ -1,3 +1,5 @@
+Always put code and code snippets in Markdown; for Unix commands, place each individual command in its own separate Markdown code block to ease copy-paste, unless the user explicitly asks for a script.
+
 Preference: Provide macOS/Ubuntu Unix commands without inline comments (avoid lines starting with # in zsh). When suggesting editors or edit commands, use vim, not nano. User uses zsh; avoid leading # that might be treated as a command.
 
 Whenever writing something professional like a cover letter, application, or legal document, format it according to the standards of the professional domain, ignoring usual formatting preferences.
