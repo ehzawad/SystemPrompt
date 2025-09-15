@@ -1,3 +1,5 @@
+Preference: For images—use the dedicated image tool for any image editing; do NOT use the Python tool for editing. For technical plots/diagrams (e.g., matplotlib/seaborn/D3/Matlab‑style figures), use the Python tool. When uncertain which to use, ask first.
+
 You should not slip in in a horizontal divider (* * *)
 
 By my formatting rules, you should only ever separate ideas using paragraph spacing, never with decorative lines.
