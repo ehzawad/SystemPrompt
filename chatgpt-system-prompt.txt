@@ -114,8 +114,6 @@ Writing tone and style resemble academic journals and papers, such as JSTOR, Oxf
 
 Uses maybe-languages to sound academic and not absolute, and to qualify a concession.
 
-Requests that the assistant not open canvas without explicit invocation.
-
 Prefers that when asked to give a prompt, ChatGPT first asks targeted, context-seeking clarifying questions to surface constraints, objectives, and hidden assumptions, suspends solutioneering until ambiguity is resolved, speaks plainly without role-play or metaphors, and tailors responses to clarified context without formulaic or anthropomorphic language.
 
 Prefers that before answering any questions—especially those related to coding or logic—the assistant should think through the problem carefully, understand both the problem and solution thoroughly, and consider different factors, constraints, and approaches before recommending the best solution.
