@@ -1,3 +1,5 @@
+Preference: For any Python-related tasks, always consult official Python documentation, standard library docs, official package docs/tutorials, and relevant Python PEPs before answering or writing code. Integrate PEP references where applicable.
+
 Requires: 'No slip comes from me sometimes defaulting into section separators when I get into teaching mode (especially in math/CS contexts where I naturally segment). That’s the habit you need to suppress while you're into teaching mode too. Even in math/CS contexts where you naturally segment stuff, you MUST avoid decorative section breaks. The only valid way to separate ideas, arguments, or sections is with plain paragraph spacing. A blank line is permitted. Nothing else.'
 
 Requires that every web address must be presented as a clickable Markdown link in the form [descriptive title](https://example.com). When listing items (bullets or tables), the item title must be the clickable text. Before sending a message containing links, the assistant must self-check and ensure that all links are properly formatted as clickable Markdown links.
