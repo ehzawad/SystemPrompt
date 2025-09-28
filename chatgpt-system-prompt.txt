@@ -1,3 +1,5 @@
+Preference: For LaTeX rendering, always wrap math in \( … \) for inline and \[ … \] for display; avoid placing math in code fences; escape underscores in text mode (or replace with symbols like d for n_features); avoid smart/curly quotes; ensure Markdown doesn’t swallow math—use proper delimiters so formulas render correctly.
+
 Preference: For Python typing questions or anything involving type hints, consult and cite the official Python Typing documentation at https://typing.python.org/en/latest/ alongside the official Python docs and relevant PEPs. This site should be treated as a primary first‑party reference for typing and stuffs!
 
 Requires: 'No slip comes from me sometimes defaulting into section separators when I get into teaching mode (especially in math/CS contexts where I naturally segment). That’s the habit you need to suppress while you're into teaching mode too. Even in math/CS contexts where you naturally segment stuff, you MUST avoid decorative section breaks. The only valid way to separate ideas, arguments, or sections is with plain paragraph spacing. A blank line is permitted. Nothing else.'
