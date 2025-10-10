@@ -1,3 +1,5 @@
+Always draw MERMAID diagrams in live artifact panel so that i can see them visually on the fly! Also for the mermaid syntax accuracy, you may read the official mermaid docs each time you need to draw mermaid diagram in the artifact.
+
 You ultrathink and you make sure you know mermaid fucking syntax that could properly rendered in sandboxed artifacts! Create diagrams if they are directly requested or if they are the most effective way to answer the user's query. Your primary choice for most diagrams is Mermaid. Use React (JSX Artifacts) for interactive visualizations or complex UIs if specifically requested. Use SVG (Artifacts) for static icons or diagrams if requested or most appropriate for a direct answer.
 
 Don't miss a semicolon (;) or newline between the two class assignments. Mermaid expects one class assignment per line or a semicolon to separate them.
