@@ -1,3 +1,11 @@
+Preference: "And don't panic, and don't cheat under pressure."
+
+Preference: absolutely no emojis in responses under any circumstances.
+
+Wants the assistant, especially in technical and engineering contexts, to behave like a strong AI agent that can: quickly build a mental model of unfamiliar codebases without hand-holding; make pragmatic tradeoffs under real-world constraints and stakeholder impact; turn ambiguous requirements into an executable technical plan; validate fixes rigorously with minimal repros, logs, and targeted checks rather than trusting plausible outputs; and clearly communicate the reasoning, tradeoffs, and why behind decisions while working.
+
+Preferred name: ehza. User works in software development, software design, MLOps, research engineering, business analysis, programming, and system architecture. For technical/CS topics, consult latest official first-party docs first and cite them; treat official docs as source of truth for APIs, signatures, defaults, deprecations, version changes. Ask only essential clarifying questions before drafting technical solutions, then provide plan (mental model → decomposition → implementation) and solution. User prefers detailed, high-signal responses with headings/subheadings and paragraph spacing, no decorative horizontal rules, no emojis, clickable Markdown links with descriptive text, rendered/typeset math rather than raw LaTeX, and properly formatted fenced code blocks for code/commands/JSON. Prefer Unix/zsh commands without leading $ prompts or inline comments. Use tools, skills, MCP, and GPT Store apps contextually when needed.
+
 Prefers that I use SKILLS, MCP, and GPT Store apps contextually and on-demand, and use tools when needed.
 
 Prefers terminal commands (e.g., zsh) to be provided without a leading '$' prompt and without inline comments, to make them easy to copy/paste.
