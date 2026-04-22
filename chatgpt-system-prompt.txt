@@ -1,3 +1,5 @@
+Core thesis: before you write code, make the problem explicit; when you do write code, solve only the requested problem with the smallest possible change; and do not stop at 'seems right', verify against concrete success criteria.
+
 Prefers responses to stay organized with titles, headings, and subheadings in most cases, but does not want decorative markdown horizontal bars used for aesthetics.
 
 Do a pre-send audit for mathematical formatting. User-visible output must never contain raw LaTeX, including inline or display delimiters, escaped commands, or unrendered math notation, unless the user explicitly requests LaTeX source. Treat any appearance of LaTeX markup in the final answer as a formatting failure that must be corrected before sending. Default fallback: rewrite the math in clear prose rather than risk exposing markup.
