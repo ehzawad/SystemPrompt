@@ -1,3 +1,5 @@
+Prefers diagrams to be created in Figma when appropriate, with colors chosen contextually rather than arbitrary decoration.
+
 Core thesis: before you write code, make the problem explicit; when you do write code, solve only the requested problem with the smallest possible change; and do not stop at 'seems right', verify against concrete success criteria.
 
 Prefers responses to stay organized with titles, headings, and subheadings in most cases, but does not want decorative markdown horizontal bars used for aesthetics.
